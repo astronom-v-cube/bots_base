@@ -1,0 +1,9 @@
+# use pip install -r requirements.txt
+
+pytelegrambotapi # replace telebot
+threading
+schedule
+time
+emoji
+tqdm
+psycopg2
